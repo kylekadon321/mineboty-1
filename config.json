@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
+    "ip": "RhynoSmp.aternos.me",
+    "port": "34768",
+    "name": "McDeveloper",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "!",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "register-cmd": "/register tommygwapo tommygwapo,
+    "login-cmd": "",
+    "loginmsg": "hi",
     "auto-reconnect": "true"
 }
