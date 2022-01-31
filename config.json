@@ -5,7 +5,7 @@
     "auto-night-skip": "false",
     "prefix": "!",
     "login-enabled": "true",
-    "register-cmd": "/register tommygwapo tommygwapo,
+    "register-cmd": "/register tommygwapo tommygwapo",
     "login-cmd": "",
     "loginmsg": "hi",
     "auto-reconnect": "true"
