@@ -6,7 +6,7 @@
     "prefix": "!",
     "login-enabled": "true",
     "register-cmd": "/register tommygwapo tommygwapo",
-    "login-cmd": "",
+    "login-cmd": "/login tommygwapo",
     "loginmsg": "hi",
     "auto-reconnect": "true"
 }
